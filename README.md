@@ -1,0 +1,2 @@
+# Preprosessing_TitanicDataset
+Preprosessing menggunakan dataset titanic
